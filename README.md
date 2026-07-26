@@ -8,10 +8,10 @@
 
 ### 💼 What I'm Building
 - **[Prompt-Smith](https://github.com/jaylenmareko/Prompt-Smith)** — AI prompt generator for ChatGPT, Midjourney, and Claude
-- **[Wagyu Wellness Co](https://github.com/jaylenmareko/wagyuwellnessco)** — direct-to-consumer Wagyu beef e-commerce
-- **[Topic Funding](https://github.com/jaylenmareko/topic-funding)** — fan-funded creator marketplace, 48h turnaround
 - **[PJRoutes](https://github.com/jaylenmareko/pjroutes-)** — empty-leg private jet marketplace
+- **[Wagyu Wellness Co](https://github.com/jaylenmareko/wagyuwellnessco)** — direct-to-consumer Wagyu beef e-commerce
 - **[Creek Pressure Washing](https://github.com/jaylenmareko/creek-pressure-washing)** — local service business site + online booking
+- **[Topic Funding](https://github.com/jaylenmareko/topic-funding)** — fan-funded creator marketplace, 48h turnaround
 - Plus a few in private beta: an AI workout builder with 1v1 form battles, a ranch/livestock management platform, and an automated social carousel generator
 
 ---
