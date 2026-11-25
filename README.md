@@ -1,29 +1,40 @@
-# 👋 Hi, I'm Jaylen Davis
+# Jaylen Davis
 
-🎓 CS student at Southwestern College, Winfield, KS
-🚀 Software entrepreneur — I build and ship real products, not tutorials
-🛠️ Currently juggling apps across fitness, ag-tech, and marketplaces
+I am an IT Department Intern at the City of Winfield and a senior at Southwestern College, graduating December 2026. I focus on AI automation and practical systems and products. That work spans nine projects across AI tools, creator platforms, marketplaces, and ag-tech.
 
----
+[Email](mailto:jaylenmarekodavis@gmail.com) / [LinkedIn](https://www.linkedin.com/in/jaylenmarekodavis) / [GitHub](https://github.com/jaylenmareko) / [Website](https://jaylenmareko.github.io)
 
-### 💼 What I'm Building
-- **[Prompt-Smith](https://github.com/jaylenmareko/Prompt-Smith)** — AI prompt generator for ChatGPT, Midjourney, and Claude
-- **[PJRoutes](https://github.com/jaylenmareko/pjroutes-)** — empty-leg private jet marketplace
-- **[Wagyu Wellness Co](https://github.com/jaylenmareko/wagyuwellnessco)** — direct-to-consumer Wagyu beef e-commerce
-- **[Creek Pressure Washing](https://github.com/jaylenmareko/creek-pressure-washing)** — local service business site + online booking
-- **[Topic Funding](https://github.com/jaylenmareko/topic-funding)** — fan-funded creator marketplace, 48h turnaround
-- Plus a few in private beta: an AI workout builder with 1v1 form battles, a ranch/livestock management platform, and an automated social carousel generator
+## Projects
 
----
+**GetAGoodPhoto.com**
+AI profile photo service for people who need a good photo of themselves.
+[Live site](https://getagoodphoto.com)
 
-### 🧠 Stack
-- **Languages:** TypeScript · JavaScript · Python
-- **Frontend:** React · Next.js · React Native / Expo
-- **Backend:** Node.js · Express · Supabase · PostgreSQL
-- **Tools:** Git · GitHub · Stripe · Vercel · Replit
+**ClipsDoneForYou**
+Automated clipping service for creators.
+[Live site](https://clipsdoneforyou.com) / [GitHub](https://github.com/jaylenmareko/clipsdoneforyou)
 
----
+**Clip Machine**
+Automated video clipping and publishing system.
 
-### 📈 GitHub Stats
-![Jaylen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaylenmareko&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaylenmareko&layout=compact&theme=tokyonight&hide_border=true)
+**TopicLaunch**
+Fan funded creator marketplace. Fans fund video topics and creators fulfill them.
+[GitHub](https://github.com/jaylenmareko/topic-funding)
+
+**RanchPad**
+Livestock management for ranchers: herd records, ear tag photo scanning, weights, breeding and health tracking.
+[GitHub](https://github.com/jaylenmareko/Ranch-Pad)
+
+**Prompt-Smith**
+AI prompt generator for ChatGPT, Midjourney, Claude, and more.
+[GitHub](https://github.com/jaylenmareko/Prompt-Smith)
+
+**PJ Routes**
+Empty leg private jet marketplace. Operators list flights and passengers book direct.
+[GitHub](https://github.com/jaylenmareko/pjroutes-)
+
+**CaroSlide**
+Automated social carousel generator.
+
+**AtlasMaxxing**
+Fitness platform project.
