@@ -16,6 +16,7 @@ Automated clipping service for creators.
 
 **Clip Machine**
 Automated video clipping and publishing system.
+[GitHub](https://github.com/jaylenmareko/clip-machine)
 
 **TopicLaunch**
 Fan funded creator marketplace. Fans fund video topics and creators fulfill them.
@@ -35,6 +36,8 @@ Empty leg private jet marketplace. Operators list flights and passengers book di
 
 **CaroSlide**
 Automated social carousel generator.
+[GitHub](https://github.com/jaylenmareko/caroslide-app)
 
-**AtlasMaxxing**
-Fitness platform project.
+**AtlasMaxxing (SwipeMaxx)**
+AI dating profile photo generator. Users upload photos and get AI generated profile photos, with face matching and Stripe credit payments.
+[GitHub](https://github.com/jaylenmareko/atlasmaxxing)
